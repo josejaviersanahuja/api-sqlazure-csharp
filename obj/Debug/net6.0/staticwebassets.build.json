@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qKBrJby3TpTfzrfRXjhNRUroItr2+nI0xek6qmmLrDk=",
+  "Source": "api-sqlazure-csharp",
+  "BasePath": "_content/api-sqlazure-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
