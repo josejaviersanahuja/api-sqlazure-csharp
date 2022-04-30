@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using api_sqlserver_csharp.Models;
+using api_sqlazure_csharp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

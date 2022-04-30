@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace api_sqlserver_csharp.Models
+namespace api_sqlazure_csharp.Models
 {
     public class Contacts 
     {
