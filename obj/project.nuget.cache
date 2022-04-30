@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "jsiWGyt0bDsbDacJpy5bgA6zDWt5rdLkfr6dYix0fu1YKLGF7COy9gQi8pNVdETN+pJcw+ar0uNupHKNWbzCBA==",
+  "dgSpecHash": "iDBzZ7m/n/sb7XCYMQpMiKBwNWgCytM4ktQ8W3uiXWvpnxEy+YB+12MM5Azeou0HWhQvPQgvDFLkhcuD+8dNUg==",
   "success": true,
   "projectFilePath": "/home/zitrojj/dev/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
   "expectedPackageFiles": [
+    "/home/zitrojj/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.entityframeworkcore/6.0.4/microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.4/microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.4/microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.entityframeworkcore.design/6.0.4/microsoft.entityframeworkcore.design.6.0.4.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.4/microsoft.entityframeworkcore.relational.6.0.4.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.entityframeworkcore.sqlserver/6.0.4/microsoft.entityframeworkcore.sqlserver.6.0.4.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

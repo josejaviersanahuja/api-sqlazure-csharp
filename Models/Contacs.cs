@@ -1,7 +1,9 @@
+using System.ComponentModel.DataAnnotations;
 namespace api_sqlserver_csharp.Models
 {
     public class Contacts 
     {
+        [Key]
         public string Identificador { get; set;}
         
         public string Nombre { get; set;}
