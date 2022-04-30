@@ -1,4 +1,4 @@
-namespace api-sqlserver-csharp.Models
+namespace api_sqlserver_csharp.Models
 {
     public class Contacts 
     {
