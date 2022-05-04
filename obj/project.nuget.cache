@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iDBzZ7m/n/sb7XCYMQpMiKBwNWgCytM4ktQ8W3uiXWvpnxEy+YB+12MM5Azeou0HWhQvPQgvDFLkhcuD+8dNUg==",
+  "dgSpecHash": "vf4hTdeshgh1m2QBYdHhGjTJ3Vkvl13eWL+hJL1OLah3Kw4KQzRasLYXZsw943QWH4GLAwGGO6lublIwIjvP/A==",
   "success": true,
-  "projectFilePath": "/home/zitrojj/dev/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
+  "projectFilePath": "/home/zitrojj/Escritorio/learning_code/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
   "expectedPackageFiles": [
     "/home/zitrojj/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/zitrojj/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

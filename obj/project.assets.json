@@ -2026,11 +2026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zitrojj/dev/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
+      "projectUniqueName": "/home/zitrojj/Escritorio/learning_code/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
       "projectName": "api-sqlazure-csharp",
-      "projectPath": "/home/zitrojj/dev/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
+      "projectPath": "/home/zitrojj/Escritorio/learning_code/api-sqlazure-csharp/api-sqlazure-csharp.csproj",
       "packagesPath": "/home/zitrojj/.nuget/packages/",
-      "outputPath": "/home/zitrojj/dev/api-sqlazure-csharp/obj/",
+      "outputPath": "/home/zitrojj/Escritorio/learning_code/api-sqlazure-csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zitrojj/.nuget/NuGet/NuGet.Config"

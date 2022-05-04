@@ -4,7 +4,7 @@ namespace api_sqlazure_csharp.Models
     public class Contacts 
     {
         [Key]
-        public string Identificador { get; set;}
+        public int Identificador { get; set;}
         
         public string Nombre { get; set;}
         
